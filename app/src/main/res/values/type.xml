@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.App.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/montserrat_medium</item>
+    </style>
+
+    <style name="TextAppearance.App.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/montserrat_medium</item>
+        <item name="android:textColor">?attr/colorSecondary</item>
+    </style>
+
+
+    <style name="TextAppearance.App.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/roboto_mono_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
