@@ -10,6 +10,10 @@ This is a clean architecture app example that consume the api REST [spoonacular]
  - Cache Strategy (Repository Pattern)
  - ViewBinding
  - Material Design for UI
+
+# Architecture
+Basic explanation of clean architecture by Robert C. Martin (Uncle Bob)
+![Main](screenshots/architecture_foodApi.png?raw=true)
  
 # Screenshots
 | Main Screen | Main Screen |  Recipe Overview | Recipe Ingredients
