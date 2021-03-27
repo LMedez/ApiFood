@@ -10,8 +10,8 @@ This is a clean architecture app example that consume the api REST [spoonacular]
  - Cache Strategy (Repository Pattern)
  - ViewBinding
  
- # Screenshots
-| Main Screen | Detail |  Favs |
+# Screenshots
+| Main Screen | Main Screen |  Recipe Detail 
 |:-:|:-:|:-:|
-| ![Fist](screenshots/light_1.png?raw=true) | ![3](screenshots/light_2.png?raw=true) | ![3](screenshots/light_3.png?raw=true) |
+| ![Main](screenshots/Main.png?raw=true) | ![Main](screenshots/main2.png?raw=true) | ![Recipe Detail](screenshots/detail.png?raw=true) 
  
